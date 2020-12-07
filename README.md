@@ -15,6 +15,13 @@ To the best of our knowledge, our system is currently the only
 mobile application for real-time stress detection task using only
 the human speech with an adaptation feature. June, 2019
 
+## Links to backend and frontend codes:
+
+https://github.com/qwireq/mclient-back
+
+https://github.com/qwireq/mclientapp
+
+
 ## Team:
   Dias Issa,
   School of Science and Technology, Computer Science Dep.,
@@ -40,9 +47,3 @@ the human speech with an adaptation feature. June, 2019
   Astana, Kazakhstan,
   mark.sterling@nu.edu.kz.
   
-
-## Links to backend and frontend codes:
-
-https://github.com/qwireq/mclient-back
-
-https://github.com/qwireq/mclientapp
